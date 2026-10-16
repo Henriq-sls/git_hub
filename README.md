@@ -40,20 +40,3 @@ Meus projetos publicados em GitHub Pages.
 |  [Fundamentos de Engenharia] | Química, Física e Normas ABNT   |
 
 
-> ## 🗂️ Estrutura do repositório
-
-```
-## 🗂️ Estrutura do repositório
-
-```
-Portfolio/
-├── index.html
-├── README.md
-├── projetos-academicos/
-│   ├── Engenharia-de-Software/
-│   ├── Banco-de-Dados
-│   ├── Boot-camp-I/
-│   ├── Logica-de-Programacao/
-│   ├── Introducao-a-Computacao/
-│   └── Fundamentos-de-Engenharia/
-```
