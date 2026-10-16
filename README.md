@@ -43,11 +43,17 @@ Meus projetos publicados em GitHub Pages.
 > ## 🗂️ Estrutura do repositório
 
 ```
+## 🗂️ Estrutura do repositório
+
+```
 Portfolio/
 ├── index.html
 ├── README.md
 ├── projetos-academicos/
-│   ├── banco-de-dados/
-│   └── Boot-camp-1/
-└── documentacao/
+│   ├── Engenharia-de-Software/
+│   ├── Banco-de-Dados
+│   ├── Boot-camp-I/
+│   ├── Logica-de-Programacao/
+│   ├── Introducao-a-Computacao/
+│   └── Fundamentos-de-Engenharia/
 ```
