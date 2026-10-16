@@ -4,7 +4,7 @@ Criação de site ensinado na disciplina Bootcamp I onde aprendemos a utilizar o
 
 # 📂 Portfólio de Henrique Viana Sales
 
-Meus projetos acadêmicos e pessoais, versionados com Git e publicados com GitHub Pages.
+Meus projetos publicados em GitHub Pages.
 
 ![Versão](https://img.shields.io/badge/VERSÃO-v1.0-teal?style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-publicado-black?style=for-the-badge&logo=github)
@@ -30,16 +30,16 @@ Meus projetos acadêmicos e pessoais, versionados com Git e publicados com GitHu
 
 ## 📚 Projetos
 
-| Disciplina | O que tem na pasta |
+| Disciplina | O que é estudado   |
 |------------|--------------------|
-|  [Engenharia de Software] Estudo de processos e métodos para criação de software.  |
-|  [Banco de Dados]  Modelagem de dados e SQL. |
-|  [Boot-camp I]  Aprendizagem no Github. |
-|  [Lógica de Programação] linguagem de programação em python.  |
-|  [Introdução a computação] História da Computação   |
-|  [Fundamentos de Engenharia] Química, Física e Normas ABNT   |
+|  [Engenharia de Software]  | Estudo de processos e métodos para criação de software|
+|  [Banco de Dados]  | Modelagem de dados e SQL. |
+|  [Boot-camp I] | Aprendizagem no Github. |
+|  [Lógica de Programação] | linguagem de programação em python.  | 
+|  [Introdução a computação] | História da Computação   |
+|  [Fundamentos de Engenharia] | Química, Física e Normas ABNT   |
 
-> Cada pasta tem seu próprio README explicando o conteúdo.
+
 > ## 🗂️ Estrutura do repositório
 
 ```
