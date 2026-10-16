@@ -2,7 +2,7 @@
 Criação de site ensinado na disciplina Bootcamp I onde aprendemos a utilizar o github e o githubdesktop para organizar e guardar projetos para ter facilidade para entrar no mercado de trabalho
 <div align="center">
 
-# 📂 Portfólio de Seu Nome
+# 📂 Portfólio de Henrique Viana Sales
 
 Meus projetos acadêmicos e pessoais, versionados com Git e publicados com GitHub Pages.
 
@@ -23,15 +23,21 @@ Meus projetos acadêmicos e pessoais, versionados com Git e publicados com GitHu
 
 |           |                          |
 |-----------|--------------------------|
-| **Aluno** | Seu Nome                 |
+| **Aluno** | Henrique Viana Sales                |
 | **Curso** | Engenharia de Software   |
+| **Turno** | Noturno                  |
+| **RA**    | 22652070                 |
 
 ## 📚 Projetos
 
 | Disciplina | O que tem na pasta |
 |------------|--------------------|
-| 🗄️ [Banco de Dados](projetos-academicos/banco-de-dados) | Modelagem de dados e SQL. |
-| 🚀 [Boot-camp I](projetos-academicos/Boot-camp-1) | Entrega da etapa inicial. |
+|  [Engenharia de Software] Estudo de processos e métodos para criação de software.  |
+|  [Banco de Dados]  Modelagem de dados e SQL. |
+|  [Boot-camp I]  Aprendizagem no Github. |
+|  [Lógica de Programação] linguagem de programação em python.  |
+|  [Introdução a computação] História da Computação   |
+|  [Fundamentos de Engenharia] Química, Física e Normas ABNT   |
 
 > Cada pasta tem seu próprio README explicando o conteúdo.
 > ## 🗂️ Estrutura do repositório
