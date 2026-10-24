@@ -39,10 +39,4 @@ Meus projetos publicados em GitHub Pages.
 |  [Introdução a computação] | História da Computação   |
 |  [Fundamentos de Engenharia] | Química, Física e Normas ABNT   |
 
-git init
-git add .
-git commit -m "Primeiro commit: projetos acadêmicos"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/projetos-academicos.git
-git push -u origin main
 
