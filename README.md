@@ -15,7 +15,7 @@ Meus projetos publicados em GitHub Pages.
 [GitHub](https://github.com/seu-usuario) • [LinkedIn](https://linkedin.com/in/seu-perfil)
 
 </div>
-## 🎓 Identificação
+🎓 Identificação
 
 |           |                          |
 |-----------|--------------------------|
