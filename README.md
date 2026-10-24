@@ -16,9 +16,6 @@ Meus projetos publicados em GitHub Pages.
 
 </div>
 ## 📑 Sumário
-- [Identificação](#identificação)
-- [Projetos](#projetos)
-- [Estrutura do repositório](#estrutura-do-repositório)
 ## 🎓 Identificação
 
 |           |                          |
