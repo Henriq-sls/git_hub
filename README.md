@@ -97,7 +97,7 @@ git clone https://github.com/Henriq-sls/git_hub.git
 ## 📬 Contato
 
 - GitHub: [@Henriq-sls](https://github.com/Henriq-sls)
-- LinkedIn: _(cole o link aqui)_
+- LinkedIn: _(https://www.linkedin.com/in/henrique-viana-sales-427902310?utm_source=share_via&utm_content=profile&utm_medium=member_android)_
 
 ---
 
