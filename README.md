@@ -24,15 +24,4 @@ Meus projetos publicados em GitHub Pages.
 | **Turno** | Noturno                  |
 | **RA**    | 22652070                 |
 
-## 📚 Projetos
-
-git_hub/
-├── README.md
-├── banco-de-dados/
-├── fundamentos-de-engenharia/
-├── logica-de-programacao/
-├── engenharia-de-software/
-├── introducao-a-computacao/
-└── bootcamp-1/
-
 
