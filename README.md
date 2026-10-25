@@ -53,7 +53,7 @@ Aqui reúno os trabalhos que desenvolvo ao longo do curso, separados por discipl
 ### 🧠 Lógica de Programação · [ver pasta](./logica-de-programacao)
 | Projeto | Descrição | Link |
 |---|---|---|
-| Notebook de Lógica de Programação | Exercícios e códigos desenvolvidos na disciplina | [Google Colab](COLE-AQUI-O-LINK-DO-COLAB) |
+| Notebook de Lógica de Programação | Exercícios e códigos desenvolvidos na disciplina | [Google Colab](https://colab.research.google.com/drive/1pP30pw3PMaacYvbC_lFrbVtJ7tt6XZIP?usp=sharing) |
 
 ### ⚙️ Engenharia de Software · [ver pasta](./engenharia-de-software)
 | Projeto | Descrição | Arquivo |
@@ -87,8 +87,7 @@ git_hub/
 
 ## ▶️ Como ver os projetos
 
-1. Acesse o site publicado: https://henriq-sls.github.io/git_hub/
-2. Ou clone o repositório e abra os arquivos localmente:
+1. Clone o repositório e abra os arquivos localmente:
 
 ```bash
 git clone https://github.com/Henriq-sls/git_hub.git
