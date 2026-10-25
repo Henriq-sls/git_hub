@@ -26,13 +26,13 @@ Meus projetos publicados em GitHub Pages.
 
 ## 📚 Projetos
 
-| Disciplina | O que é estudado   |
-|------------|--------------------|
-|  [Engenharia de Software]  | Estudo de processos e métodos para criação de software|
-|  [Banco de Dados]  | Modelagem de dados e SQL. |
-|  [Boot-camp I] | Aprendizagem no Github. |
-|  [Lógica de Programação] | linguagem de programação em python.  | 
-|  [Introdução a computação] | História da Computação   |
-|  [Fundamentos de Engenharia] | Química, Física e Normas ABNT   |
+git_hub/
+├── README.md
+├── banco-de-dados/
+├── fundamentos-de-engenharia/
+├── logica-de-programacao/
+├── engenharia-de-software/
+├── introducao-a-computacao/
+└── bootcamp-1/
 
 
